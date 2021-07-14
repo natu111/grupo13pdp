@@ -73,7 +73,7 @@ en todos los casos la imagen debería pesar menos de 300kb
 
 header {
     background-color: var(--segundocolor);
-    background-image: url("img/relacion-3x4.png");
+    background-image: url("graficos/portada.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
