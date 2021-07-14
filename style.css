@@ -10,7 +10,7 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
 
 /* cambien aquí sus tipografías, necesitan definir un par */
 
-@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Open+Sans:wght@700&display=swap');
 
 /* cambien aquí sus colores, necesitan definir tres */
 
@@ -24,7 +24,7 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
 
 body {
     /* asignen aquí las tipografías y colores para todo texto */
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
     font-weight: 400;
     background: var(--segundocolor);
     color: var(--colorclaro);
@@ -42,7 +42,7 @@ h5,
 h6,
 p.lead {
     /* asignen aquí la tipografía y peso que corresponda para los títulos */
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
 }
 
