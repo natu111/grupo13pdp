@@ -30,6 +30,12 @@ body {
     color: var(--colorclaro);
 }
 
+.portada{
+width: 110vh;
+
+
+}
+
 strong {
     font-weight: 700;
 }
@@ -49,6 +55,10 @@ p.lead {
 a {
     color: var(--tercercolor);
     text-decoration: underline;
+}
+
+.linkspages{
+    color: blue;
 }
 
 a:hover {
